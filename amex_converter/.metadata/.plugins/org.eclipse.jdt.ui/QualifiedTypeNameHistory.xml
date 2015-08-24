@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.orsyp.api.uproc.SessionControl"/>
+<fullyQualifiedTypeName name="com.orsyp.api.task.Task"/>
+<fullyQualifiedTypeName name="com.orsyp.api.session.Session"/>
+<fullyQualifiedTypeName name="java.util.TreeMap"/>
+<fullyQualifiedTypeName name="com.orsyp.api.uproc.LaunchFormula"/>
+<fullyQualifiedTypeName name="org.hibernate.mapping.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="au.com.bytecode.opencsv.CSVReader"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="com.orsyp.api.session.SessionItem"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.io.PrintStream"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="com.orsyp.api.uproc.DependencyCondition"/>
+<fullyQualifiedTypeName name="com.orsyp.api.Variable"/>
+<fullyQualifiedTypeName name="com.orsyp.api.uproc.Uproc"/>
+<fullyQualifiedTypeName name="stateofde.DuApiConnection"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang.SerializationUtils"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="amex.tools.DuApiConnection"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+</qualifiedTypeNameHistroy>
