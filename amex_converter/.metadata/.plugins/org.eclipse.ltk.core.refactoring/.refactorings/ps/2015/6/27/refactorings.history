@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete 6 elements from project &apos;amex&apos;&#x0D;&#x0A;- Original project: &apos;amex&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     conn_061915_0702.log&#x0D;&#x0A;     conn_061915_0705.log&#x0D;&#x0A;     conn_061915_0711.log&#x0D;&#x0A;     conn_062415_0317.log&#x0D;&#x0A;     conn_062415_0350.log&#x0D;&#x0A;     conn_062415_0415.log" description="Delete elements" element1="conn_061915_0702.log" element2="conn_062415_0350.log" element3="conn_061915_0705.log" element4="conn_062415_0317.log" element5="conn_062415_0415.log" element6="conn_061915_0711.log" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="6" stamp="1435685533772" subPackages="false" version="1.0"/>
-</session>
